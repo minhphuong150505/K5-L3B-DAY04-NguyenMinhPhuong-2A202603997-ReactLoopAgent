@@ -3,3 +3,7 @@
 __pycache__/
 *.pyc
 eval_results*.json
+
+# Local AI workflow files
+logs/
+CLAUDE.md
